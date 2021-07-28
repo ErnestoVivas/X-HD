@@ -8,6 +8,7 @@ Within a design approach comparison, we investigated three different design appr
 If you want to investigate vapor compression cycles in dynamic simulation models, have a look at our VCLib!
 This library contains dynamic simulation models in Modelica from the refrigerant level to the system level.
 
+ADoCSM is a tool that can visualize modelica models in UML Notation.
 
 A detailed description and publications will follow soon.
 
